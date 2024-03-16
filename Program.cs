@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Localization;
 using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
+
 //Логирование в файл
 IHostBuilder hostBuilder = builder.Host.UseSerilog((hostingContext, loggerConfiguration) =>
 {
@@ -16,12 +17,14 @@ IHostBuilder hostBuilder = builder.Host.UseSerilog((hostingContext, loggerConfig
         .WriteTo.Console()
         .WriteTo.File("log.txt", rollingInterval: RollingInterval.Day);
 });
+//Аутентификация
 builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
     .AddCookie(options =>
     {
-        options.LoginPath = "/Home/login";
+        options.LoginPath = "/login";
     });
 builder.Services.AddControllersWithViews();
+//глобализация
 builder.Services.AddMvc().AddMvcLocalization(Microsoft.AspNetCore.Mvc.Razor.LanguageViewLocationExpanderFormat.Suffix);
 builder.Services.Configure<RequestLocalizationOptions>(
     options =>
@@ -35,7 +38,7 @@ builder.Services.Configure<RequestLocalizationOptions>(
     });
 builder.Services.AddLocalization(option =>
 option.ResourcesPath = "Resources");
-
+//логирование в консоль?
 builder.WebHost.ConfigureLogging(logging =>
 {
     logging.ClearProviders();
@@ -43,7 +46,7 @@ builder.WebHost.ConfigureLogging(logging =>
     AddConsole().
     AddSeq();
 });
-    
+
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
@@ -67,4 +70,3 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
-

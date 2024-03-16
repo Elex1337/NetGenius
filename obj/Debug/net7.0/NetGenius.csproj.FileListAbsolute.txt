@@ -6,6 +6,8 @@
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/NetGenius.runtimeconfig.json
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/NetGenius.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/NetGenius.pdb
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/en/NetGenius.resources.dll
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/ru/NetGenius.resources.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Binder.dll
@@ -21,6 +23,8 @@
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/nunit.framework.dll
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/nunit.framework.legacy.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Seq.Extensions.Logging.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Serilog.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/Serilog.AspNetCore.dll
@@ -39,6 +43,9 @@
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/System.Threading.Channels.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.csproj.AssemblyReference.cache
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.Resources.Views.Home.Index.en.resources
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.Resources.Views.Home.Index.ru.resources
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.csproj.GenerateResource.cache
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.GeneratedMSBuildEditorConfig.editorconfig
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.AssemblyInfoInputs.cache
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.AssemblyInfo.cs
@@ -46,6 +53,10 @@
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.MvcApplicationPartsAssemblyInfo.cache
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.RazorAssemblyInfo.cache
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.RazorAssemblyInfo.cs
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/en/NetGenius.resources.cs
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/en/NetGenius.resources.dll
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/ru/NetGenius.resources.cs
+/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/ru/NetGenius.resources.dll
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/staticwebassets/msbuild.NetGenius.Microsoft.AspNetCore.StaticWebAssets.props
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/staticwebassets/msbuild.build.NetGenius.props
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.NetGenius.props
@@ -62,12 +73,3 @@
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.pdb
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.genruntimeconfig.cache
 /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/ref/NetGenius.dll
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/en/NetGenius.resources.dll
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/bin/Debug/net7.0/ru/NetGenius.resources.dll
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.csproj.GenerateResource.cache
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/en/NetGenius.resources.cs
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/en/NetGenius.resources.dll
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/ru/NetGenius.resources.cs
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/ru/NetGenius.resources.dll
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.Resources.Views.Home.Index.en.resources
-/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Debug/net7.0/NetGenius.Resources.Views.Home.Index.ru.resources

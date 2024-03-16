@@ -24,6 +24,7 @@
     <None Remove="Resources\Controllers\" />
     <None Remove="Resources\Views\" />
     <None Remove="Resources\Views\Home\" />
+    <None Remove="Tests\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Views\About\" />
@@ -43,6 +44,7 @@
     <Folder Include="Resources\Controllers\" />
     <Folder Include="Resources\Views\" />
     <Folder Include="Resources\Views\Home\" />
+    <Folder Include="Tests\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Serilog" Version="3.1.1" />
