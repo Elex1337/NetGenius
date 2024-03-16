@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string"/>
+              <xsd:attribute name="type" type="xsd:string"/>
+              <xsd:attribute name="mimetype" type="xsd:string"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string"/>
+              <xsd:attribute name="name" type="xsd:string"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1"/>
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3"/>
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4"/>
+              <xsd:attribute ref="xml:space"/>
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1"/>
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required"/>
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Home" xml:space="preserve">
+    <value>Главная</value>
+    <comment/>
+  </data>
+  <data name="About" xml:space="preserve">
+    <value>О нас</value>
+    <comment/>
+  </data>
+  <data name="Price" xml:space="preserve">
+    <value>Цена</value>
+    <comment/>
+  </data>
+  <data name="Blog" xml:space="preserve">
+    <value>Блог</value>
+    <comment/>
+  </data>
+  <data name="Feature" xml:space="preserve">
+    <value>Оссобенности</value>
+    <comment/>
+  </data>
+  <data name="FAQ" xml:space="preserve">
+    <value>FAQ</value>
+    <comment/>
+  </data>
+  <data name="Success Stories" xml:space="preserve">
+    <value>Успешные Истории</value>
+    <comment/>
+  </data>
+  <data name="Coming Soon" xml:space="preserve">
+    <value>Ждем</value>
+    <comment/>
+  </data>
+  <data name="Forgot" xml:space="preserve">
+    <value>Забыл пароль</value>
+    <comment/>
+  </data>
+  <data name="Confirm email" xml:space="preserve">
+    <value>Подвердждение емайл</value>
+    <comment/>
+  </data>
+  <data name="Contact" xml:space="preserve">
+    <value>Контакты</value>
+    <comment/>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Логин</value>
+    <comment/>
+  </data>
+  <data name="Sing up" xml:space="preserve">
+    <value>Регестрация</value>
+    <comment/>
+  </data>
+  <data name="Page" xml:space="preserve">
+    <value>Страницы</value>
+    <comment/>
+  </data>
+  <data name="Experience the Future of Networking: Elevate Efficiency, Maximize Performance, and Secure Success with NetGenius SaaS Solutions." xml:space="preserve">
+    <value>Откройте для себя будущее сетей: повысьте эффективность, максимизируйте производительность и обеспечьте успех с помощью SaaS-решений NetGenius.</value>
+    <comment/>
+  </data>
+  <data name="Empower your network with NetGenius CRM" xml:space="preserve">
+    <value>Расширьте возможности своей сети с помощью NetGenius CRM</value>
+    <comment/>
+  </data>
+  <data name="Get Free Trial" xml:space="preserve">
+    <value>Получите бесплатную пробную версию</value>
+    <comment/>
+  </data>
+  <data name="NetGenius Fundraise" xml:space="preserve">
+    <value>Сбор средств NetGenius</value>
+    <comment/>
+  </data>
+  <data name="More than 200+ companies trusted us worldwide" xml:space="preserve">
+    <value>Нам доверяют более 200+ компаний по всему миру</value>
+    <comment/>
+  </data>
+  <data name="CRM Power Feature" xml:space="preserve">
+    <value>Мощная функция CRM</value>
+    <comment/>
+  </data>
+  <data name="Discover the power-packed features of NetGenius CRM" xml:space="preserve">
+    <value>Откройте для себя мощные возможности NetGenius CRM</value>
+    <comment/>
+  </data>
+  <data name="A Smarter, Faster, and More Secure Network Experience" xml:space="preserve">
+    <value>Более умная, быстрая и безопасная сеть</value>
+    <comment/>
+  </data>
+  <data name="Data table - (Advance filter)" xml:space="preserve">
+    <value>Таблица данных – (Расширенный фильтр)</value>
+    <comment/>
+  </data>
+  <data name="Effortless Data Mastery: Harness the Power of Advanced Filters in our Dynamic Data Table. Seamlessly refine and analyse information, ensuring precision and control at your fingertips. Elevate your data-driven decisions with NetGenius CRM" xml:space="preserve">
+    <value>Легкое управление данными: используйте возможности расширенных фильтров в нашей динамической таблице данных. Легко уточняйте и анализируйте информацию, обеспечивая точность и контроль у вас под рукой. Повысьте качество принимаемых на основе данных решений с помощью NetGenius CRM</value>
+    <comment/>
+  </data>
+  <data name="Advanced Filtering" xml:space="preserve">
+    <value>Расширенная фильтрация</value>
+    <comment/>
+  </data>
+  <data name="Multiple Filter Combinations:" xml:space="preserve">
+    <value>Несколько комбинаций фильтров:</value>
+    <comment/>
+  </data>
+  <data name="Saved Filter Configurations" xml:space="preserve">
+    <value>Сохраненные конфигурации фильтров</value>
+    <comment/>
+  </data>
+  <data name="Price Package" xml:space="preserve">
+    <value>Ценовой пакет</value>
+    <comment/>
+  </data>
+  <data name="Tailored Value, Unmatched Choices: Exploring the Versatility of Our Price Package Feature" xml:space="preserve">
+    <value>Индивидуальная ценность, непревзойденный выбор: изучение универсальности нашего ценового пакета</value>
+    <comment/>
+  </data>
+  <data name="Advanced Invoice System" xml:space="preserve">
+    <value>Расширенная система выставления счетов</value>
+    <comment/>
+  </data>
+  <data name="Effortless Finances, Seamless Transactions: Harnessing the Power of Our Advanced Invoice System" xml:space="preserve">
+    <value>Легкие финансы, бесперебойные транзакции: использование возможностей нашей усовершенствованной системы выставления счетов</value>
+    <comment/>
+  </data>
+  <data name="Our journey, milestones, and commitment to excellence" xml:space="preserve">
+    <value>Наш путь, вехи и стремление к совершенству</value>
+    <comment/>
+  </data>
+  <data name="Trusted Growth, Proven Success: Exploring Our Company&amp;#x27;s Evolution, Achievements, and Vision for the Future." xml:space="preserve">
+    <value>Надежный рост, доказанный успех: изучение эволюции, достижений и видения нашей компании на будущее.</value>
+    <comment/>
+  </data>
+  <data name="Company Status" xml:space="preserve">
+    <value>Статус компаний</value>
+    <comment/>
+  </data>
+  <data name="Average ROI" xml:space="preserve">
+    <value>Средняя рентабельность инвестиций</value>
+    <comment/>
+  </data>
+  <data name="Total Users" xml:space="preserve">
+    <value>Всего пользователей</value>
+    <comment/>
+  </data>
+  <data name="Total Fundraise" xml:space="preserve">
+    <value>Общий сбор средств</value>
+    <comment/>
+  </data>
+  <data name="Customer Value" xml:space="preserve">
+    <value>Потребительская ценность</value>
+    <comment/>
+  </data>
+  <data name="Best Software Award" xml:space="preserve">
+    <value>Награда за лучшее программное обеспечение</value>
+    <comment/>
+  </data>
+  <data name="A Showcase of Honors, Accolades, and Industry Recognition Earned by Our Company" xml:space="preserve">
+    <value>Демонстрация почестей, наград и отраслевого признания, полученных нашей компанией</value>
+    <comment/>
+  </data>
+  <data name="Discover what our customers have to say!" xml:space="preserve">
+    <value>Узнайте, что говорят наши клиенты!</value>
+    <comment/>
+  </data>
+  <data name="Testimonial" xml:space="preserve">
+    <value>Отзывы</value>
+    <comment/>
+  </data>
+  <data name="Hear Directly from Our Satisfied Clients and Partners About Their Experience Working with Us." xml:space="preserve">
+    <value>Узнайте напрямую от наших довольных клиентов и партнеров об их опыте работы с нами.</value>
+    <comment/>
+  </data>
+  <data name="Wow, this is absolutely incredible – huge props to the NetGenius team for bringing these amazing AI superpowers to more Webflow visual developers!" xml:space="preserve">
+    <value>Ух ты, это просто невероятно! Огромный респект команде @NetGenius за то, что они предоставили эти удивительные сверхспособности искусственного интеллекта большему количеству разработчиков визуальных эффектов Webflow!</value>
+    <comment/>
+  </data>
+  <data name="All Feature" xml:space="preserve">
+    <value>Алл Феатуре</value>
+    <comment/>
+  </data>
+  <data name="Explore the all Key features that set our company" xml:space="preserve">
+    <value>Изучите все ключевые особенности, которые отличают нашу компанию</value>
+    <comment/>
+  </data>
+  <data name="Delve Into the Innovative Solutions and Services Redefining Industry Standards." xml:space="preserve">
+    <value>Погрузитесь в инновационные решения и услуги, переопределяющие отраслевые стандарты.</value>
+    <comment/>
+  </data>
+  <data name="Dashboard" xml:space="preserve">
+    <value>Панель</value>
+    <comment/>
+  </data>
+  <data name="Views" xml:space="preserve">
+    <value>Вивс</value>
+    <comment/>
+  </data>
+  <data name="Boards" xml:space="preserve">
+    <value>Боарды</value>
+    <comment/>
+  </data>
+  <data name="Integration" xml:space="preserve">
+    <value>Интеграция</value>
+    <comment/>
+  </data>
+  <data name="Apps" xml:space="preserve">
+    <value>Аппс</value>
+    <comment/>
+  </data>
+  <data name="Docs" xml:space="preserve">
+    <value>Докс</value>
+    <comment/>
+  </data>
+  <data name="Support" xml:space="preserve">
+    <value>Поддержка(ее нету)</value>
+    <comment/>
+  </data>
+  <data name="Seamless Connectivity: Explore Our Integration Capabilities for Enhanced Efficiency and Collaboration." xml:space="preserve">
+    <value>Бесшовное подключение: изучите наши возможности интеграции для повышения эффективности и совместной работы.</value>
+    <comment/>
+  </data>
+  <data name="Scale  faster then ever before with NetGenius" xml:space="preserve">
+    <value>Масштабируйтесь быстрее, чем когда-либо прежде, с NetGenius</value>
+    <comment/>
+  </data>
+  <data name="Quick Action" xml:space="preserve">
+    <value>Квик актион</value>
+    <comment/>
+  </data>
+  <data name="Explore our customer proven success story" xml:space="preserve">
+    <value>Посмотри на фековые отзывы</value>
+    <comment/>
+  </data>
+  <data name="View Success Story" xml:space="preserve">
+    <value>Посмотреть на фейковые истории</value>
+    <comment/>
+  </data>
+  <data name="Learn More" xml:space="preserve">
+    <value>Лерн море</value>
+    <comment/>
+  </data>
+  <data name="of goals achieved with ROI on ProNature" xml:space="preserve">
+    <value>голы в ворта манчестера</value>
+    <comment/>
+  </data>
+  <data name="of goals achieved with Profit on Greenish" xml:space="preserve">
+    <value>голы в ворота Реала</value>
+    <comment/>
+  </data>
+  <data name="NetGenius price plan" xml:space="preserve">
+    <value>Цена</value>
+    <comment/>
+  </data>
+  <data name="Discover the Perfect Plan to Fit Your Budget and Unleash the Full Potential of Our Solutions" xml:space="preserve">
+    <value>Откройте для себя идеальный план, соответствующий вашему бюджету, и раскройте весь потенциал наших решений</value>
+    <comment/>
+  </data>
+  <data name="Monthly" xml:space="preserve">
+    <value>Монтхли</value>
+    <comment/>
+  </data>
+  <data name="Yearly" xml:space="preserve">
+    <value>Ерли</value>
+    <comment/>
+  </data>
+  <data name="Starter" xml:space="preserve">
+    <value>Финишер</value>
+    <comment/>
+  </data>
+  <data name="/Per Month" xml:space="preserve">
+    <value>/Пер Монтх</value>
+    <comment/>
+  </data>
+  <data name="Get Started" xml:space="preserve">
+    <value>Гет стартед</value>
+    <comment/>
+  </data>
+  <data name="Feature plan includes" xml:space="preserve">
+    <value>Футуре план</value>
+    <comment/>
+  </data>
+  <data name="3 Social Media Account" xml:space="preserve">
+    <value>3 Социал медиа аккаунт</value>
+    <comment/>
+  </data>
+  <data name="Unlimited data" xml:space="preserve">
+    <value>Анлимитед дата</value>
+    <comment/>
+  </data>
+  <data name="Contact and company" xml:space="preserve">
+    <value>Контак контак</value>
+    <comment/>
+  </data>
+  <data name="Free Platform Access" xml:space="preserve">
+    <value>Фри платформ аксеес </value>
+    <comment/>
+  </data>
+  <data name="Email automation" xml:space="preserve">
+    <value>Емайл аутомотитион</value>
+    <comment/>
+  </data>
+  <data name="Best Price" xml:space="preserve">
+    <value>Худшая цена</value>
+    <comment/>
+  </data>
+  <data name="Enterprise" xml:space="preserve">
+    <value>Ентерприсе</value>
+    <comment/>
+  </data>
+  <data name="/Per Year" xml:space="preserve">
+    <value>Пер Еар</value>
+    <comment/>
+  </data>
+  <data name="Latest News &amp;amp; Articles" xml:space="preserve">
+    <value>Последние новости</value>
+    <comment/>
+  </data>
+  <data name="Dive into Our Blog for the Latest Trends, Tips, and Industry Knowledge." xml:space="preserve">
+    <value>Погрузитесь в наш блог, чтобы узнать о последних тенденциях, советах и ​​отраслевых знаниях.</value>
+    <comment/>
+  </data>
+  <data name="Forgot password" xml:space="preserve">
+    <value>Забыл пароль</value>
+    <comment/>
+  </data>
+  <data name="10 Best Rated Webflow Live Chat Plugins" xml:space="preserve">
+    <value>Бесполезная хрень</value>
+    <comment/>
+  </data>
+  <data name="8 Best Webflow Quiz Plugins For Your Website" xml:space="preserve">
+    <value>Хрень как и utility pages</value>
+    <comment/>
+  </data>
+  <data name="Get a production could provisioned with fully-managed structure" xml:space="preserve">
+    <value>Трата времени</value>
+    <comment/>
+  </data>
+</root>

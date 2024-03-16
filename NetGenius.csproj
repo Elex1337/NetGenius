@@ -1,0 +1,74 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <None Remove="Views\About\" />
+    <None Remove="Views\Price\" />
+    <None Remove="Views\Blog\" />
+    <None Remove="Views\Contact\" />
+    <None Remove="Views\Login\" />
+    <None Remove="Views\Feature\" />
+    <None Remove="Views\Faq\" />
+    <None Remove="Views\ComingSoon\" />
+    <None Remove="Views\Successstory\" />
+    <None Remove="Views\СonfirmEmail\" />
+    <None Remove="Views\ForgotPassword\" />
+    <None Remove="Views\Register\" />
+    <None Remove="Resources\" />
+    <None Remove="Resources\Controllers\" />
+    <None Remove="Resources\Views\" />
+    <None Remove="Resources\Views\Home\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\About\" />
+    <Folder Include="Views\Price\" />
+    <Folder Include="Views\Blog\" />
+    <Folder Include="Views\Contact\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Views\Feature\" />
+    <Folder Include="Views\Faq\" />
+    <Folder Include="Views\ComingSoon\" />
+    <Folder Include="Views\Successstory\" />
+    <Folder Include="Views\СonfirmEmail\" />
+    <Folder Include="Views\ForgotPassword\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Views\Register\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Resources\Controllers\" />
+    <Folder Include="Resources\Views\" />
+    <Folder Include="Resources\Views\Home\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="3.1.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="5.0.1" />
+    <PackageReference Include="Serilog.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Serilog.Sinks.Seq" Version="7.0.0" />
+    <PackageReference Include="Seq.Extensions.Logging" Version="8.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Views\Home\Index.en.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.en.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Resources\Views\Home\Index.ru.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Index.ru.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resources\Views\Home\Index.en.Designer.cs">
+      <DependentUpon>Index.en.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Resources\Views\Home\Index.ru.Designer.cs">
+      <DependentUpon>Index.ru.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>
