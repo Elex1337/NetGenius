@@ -1,0 +1,673 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/obj/Release/net7.0/scopedcss/projectbundle/NetGenius.bundle.scp.css",
+      "PackagePath": "staticwebassets/NetGenius.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/css/webflow-style.css",
+      "PackagePath": "staticwebassets/css/webflow-style.css"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/404.svg",
+      "PackagePath": "staticwebassets/images/404.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/about-20image-2001.png",
+      "PackagePath": "staticwebassets/images/about-20image-2001.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/about-20image-2002.png",
+      "PackagePath": "staticwebassets/images/about-20image-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/about-20image-2003-p-500.png",
+      "PackagePath": "staticwebassets/images/about-20image-2003-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/about-20image-2003.png",
+      "PackagePath": "staticwebassets/images/about-20image-2003.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/abut-20image-p-1080.webp",
+      "PackagePath": "staticwebassets/images/abut-20image-p-1080.webp"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/abut-20image-p-500.webp",
+      "PackagePath": "staticwebassets/images/abut-20image-p-500.webp"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/abut-20image-p-800.webp",
+      "PackagePath": "staticwebassets/images/abut-20image-p-800.webp"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/abut-20image.webp",
+      "PackagePath": "staticwebassets/images/abut-20image.webp"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/accountability.svg",
+      "PackagePath": "staticwebassets/images/accountability.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/app-icon.png",
+      "PackagePath": "staticwebassets/images/app-icon.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/apps.svg",
+      "PackagePath": "staticwebassets/images/apps.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/arrow-left.svg",
+      "PackagePath": "staticwebassets/images/arrow-left.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/arrow-right.svg",
+      "PackagePath": "staticwebassets/images/arrow-right.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/award-20item-200.svg",
+      "PackagePath": "staticwebassets/images/award-20item-200.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/award-20item-2001.svg",
+      "PackagePath": "staticwebassets/images/award-20item-2001.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/award-20item-2003.svg",
+      "PackagePath": "staticwebassets/images/award-20item-2003.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/award-20item-2004.svg",
+      "PackagePath": "staticwebassets/images/award-20item-2004.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/bg.svg",
+      "PackagePath": "staticwebassets/images/bg.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-200-601-1.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-200-601-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-200-601-p-500-1.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-200-601-p-500-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-200-601-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-200-601-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-200-601-p-800-1.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-200-601-p-800-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-200-601-p-800.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-200-601-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-200-601.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-200-601.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2002-1.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2002-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2002-p-500-1.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2002-p-500-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2002-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2002-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2002-p-800-1.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2002-p-800-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2002-p-800.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2002-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2002.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2004-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2004-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2004-p-800.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2004-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2004.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2004.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2005-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2005-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2005-p-800.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2005-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2005.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2005.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2006.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2006.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2007-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2007-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20details-20image-2007.png",
+      "PackagePath": "staticwebassets/images/blog-20details-20image-2007.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2001-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2001-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2001-p-500-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2001-p-500-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2001-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2001-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2001.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2001.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2002-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2002-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2002.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2003-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2003-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2003-p-500-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2003-p-500-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2003-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2003-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-2003.png",
+      "PackagePath": "staticwebassets/images/blog-20image-2003.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-201-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-201-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-201-p-500-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-201-p-500-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-201-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20image-201-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-201.png",
+      "PackagePath": "staticwebassets/images/blog-20image-201.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-202-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-202-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-202-p-500-1.png",
+      "PackagePath": "staticwebassets/images/blog-20image-202-p-500-1.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-202-p-500.png",
+      "PackagePath": "staticwebassets/images/blog-20image-202-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/blog-20image-202.png",
+      "PackagePath": "staticwebassets/images/blog-20image-202.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/boards.svg",
+      "PackagePath": "staticwebassets/images/boards.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2001.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2001.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2002.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2002.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2003.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2003.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2004.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2004.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2005.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2005.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2006.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2006.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2007.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2007.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo-2009.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo-2009.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/brand-20logo.svg",
+      "PackagePath": "staticwebassets/images/brand-20logo.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/call.svg",
+      "PackagePath": "staticwebassets/images/call.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2001-p-500.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2001-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2001-p-800.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2001-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2001.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2001.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2002-p-500.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2002-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2002-p-800.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2002-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2002.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2003-p-500.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2003-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2003-p-800.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2003-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2003.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2003.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2004-p-500.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2004-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2004-p-800.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2004-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2004.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2004.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2005-p-500.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2005-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2005-p-800.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2005-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2005.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2005.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2006-p-500.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2006-p-500.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2006-p-800.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2006-p-800.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20details-20image-2006.png",
+      "PackagePath": "staticwebassets/images/case-20details-20image-2006.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20image-2001.png",
+      "PackagePath": "staticwebassets/images/case-20image-2001.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20image-2002.png",
+      "PackagePath": "staticwebassets/images/case-20image-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20image-2003.png",
+      "PackagePath": "staticwebassets/images/case-20image-2003.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/case-20image-2004.png",
+      "PackagePath": "staticwebassets/images/case-20image-2004.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/celebration.svg",
+      "PackagePath": "staticwebassets/images/celebration.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/check.svg",
+      "PackagePath": "staticwebassets/images/check.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/chevron-down.svg",
+      "PackagePath": "staticwebassets/images/chevron-down.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/collaboration.svg",
+      "PackagePath": "staticwebassets/images/collaboration.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/coming-20soon.svg",
+      "PackagePath": "staticwebassets/images/coming-20soon.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/company-20status.svg",
+      "PackagePath": "staticwebassets/images/company-20status.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/customer-20centricity.svg",
+      "PackagePath": "staticwebassets/images/customer-20centricity.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/dashboard.svg",
+      "PackagePath": "staticwebassets/images/dashboard.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/dashicons_testimonial.svg",
+      "PackagePath": "staticwebassets/images/dashicons_testimonial.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/docs.svg",
+      "PackagePath": "staticwebassets/images/docs.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/e-mail.svg",
+      "PackagePath": "staticwebassets/images/e-mail.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/email.svg",
+      "PackagePath": "staticwebassets/images/email.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/empowerment.svg",
+      "PackagePath": "staticwebassets/images/empowerment.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/favicon.png",
+      "PackagePath": "staticwebassets/images/favicon.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20icons-2001.svg",
+      "PackagePath": "staticwebassets/images/feature-20icons-2001.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20icons-2002.svg",
+      "PackagePath": "staticwebassets/images/feature-20icons-2002.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20icons-2003.svg",
+      "PackagePath": "staticwebassets/images/feature-20icons-2003.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20image-200.svg",
+      "PackagePath": "staticwebassets/images/feature-20image-200.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20image-2001.svg",
+      "PackagePath": "staticwebassets/images/feature-20image-2001.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20image-2002.svg",
+      "PackagePath": "staticwebassets/images/feature-20image-2002.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/feature-20image-2003.svg",
+      "PackagePath": "staticwebassets/images/feature-20image-2003.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/featured-video.svg",
+      "PackagePath": "staticwebassets/images/featured-video.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/google.svg",
+      "PackagePath": "staticwebassets/images/google.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/hero-20bg-20image.png",
+      "PackagePath": "staticwebassets/images/hero-20bg-20image.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/hero-20image.svg",
+      "PackagePath": "staticwebassets/images/hero-20image.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/icon.svg",
+      "PackagePath": "staticwebassets/images/icon.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/innovation.svg",
+      "PackagePath": "staticwebassets/images/innovation.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/integration.svg",
+      "PackagePath": "staticwebassets/images/integration.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/integrity.svg",
+      "PackagePath": "staticwebassets/images/integrity.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/login-20image.svg",
+      "PackagePath": "staticwebassets/images/login-20image.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/password.svg",
+      "PackagePath": "staticwebassets/images/password.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/play-20button-1.svg",
+      "PackagePath": "staticwebassets/images/play-20button-1.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/play-20button-2.svg",
+      "PackagePath": "staticwebassets/images/play-20button-2.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/play-20button.svg",
+      "PackagePath": "staticwebassets/images/play-20button.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/quick-20action.svg",
+      "PackagePath": "staticwebassets/images/quick-20action.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/rating-20star.svg",
+      "PackagePath": "staticwebassets/images/rating-20star.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/social-20link-face-20book-.svg",
+      "PackagePath": "staticwebassets/images/social-20link-face-20book-.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/social-20link-in-.svg",
+      "PackagePath": "staticwebassets/images/social-20link-in-.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/social-20link-insta-.svg",
+      "PackagePath": "staticwebassets/images/social-20link-insta-.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/social-20link-tw-.svg",
+      "PackagePath": "staticwebassets/images/social-20link-tw-.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/star-202.svg",
+      "PackagePath": "staticwebassets/images/star-202.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/star.svg",
+      "PackagePath": "staticwebassets/images/star.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/success-20story-2001.png",
+      "PackagePath": "staticwebassets/images/success-20story-2001.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/success-20story-2002.png",
+      "PackagePath": "staticwebassets/images/success-20story-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/success.svg",
+      "PackagePath": "staticwebassets/images/success.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/support.svg",
+      "PackagePath": "staticwebassets/images/support.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-black.ttf",
+      "PackagePath": "staticwebassets/images/switzer-black.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-bold.ttf",
+      "PackagePath": "staticwebassets/images/switzer-bold.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-extrabold.ttf",
+      "PackagePath": "staticwebassets/images/switzer-extrabold.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-extralight.ttf",
+      "PackagePath": "staticwebassets/images/switzer-extralight.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-light.ttf",
+      "PackagePath": "staticwebassets/images/switzer-light.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-medium.ttf",
+      "PackagePath": "staticwebassets/images/switzer-medium.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-regular.ttf",
+      "PackagePath": "staticwebassets/images/switzer-regular.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-semibold.ttf",
+      "PackagePath": "staticwebassets/images/switzer-semibold.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/switzer-thin.ttf",
+      "PackagePath": "staticwebassets/images/switzer-thin.ttf"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/team-20member-20image-2001.png",
+      "PackagePath": "staticwebassets/images/team-20member-20image-2001.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/team-20member-20image-2002.png",
+      "PackagePath": "staticwebassets/images/team-20member-20image-2002.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/team-20member-20image-2003.png",
+      "PackagePath": "staticwebassets/images/team-20member-20image-2003.png"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/testimoal-20image-2001.svg",
+      "PackagePath": "staticwebassets/images/testimoal-20image-2001.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/testimoal-20image-2002.svg",
+      "PackagePath": "staticwebassets/images/testimoal-20image-2002.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/testimoal-20image-2003.svg",
+      "PackagePath": "staticwebassets/images/testimoal-20image-2003.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/testimonial-20logo-2001.svg",
+      "PackagePath": "staticwebassets/images/testimonial-20logo-2001.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/trending-up.svg",
+      "PackagePath": "staticwebassets/images/trending-up.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/views.svg",
+      "PackagePath": "staticwebassets/images/views.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/webflow-badge-icon-d2.89e12c322e.svg",
+      "PackagePath": "staticwebassets/images/webflow-badge-icon-d2.89e12c322e.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/images/webflow-badge-text-d2.c82cec3b78.svg",
+      "PackagePath": "staticwebassets/images/webflow-badge-text-d2.c82cec3b78.svg"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/js/jquery.js",
+      "PackagePath": "staticwebassets/js/jquery.js"
+    },
+    {
+      "Id": "/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/wwwroot/js/webflow-script.js",
+      "PackagePath": "staticwebassets/js/webflow-script.js"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.NetGenius.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.build.NetGenius.props",
+      "PackagePath": "build\\NetGenius.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildMultiTargeting.NetGenius.props",
+      "PackagePath": "buildMultiTargeting\\NetGenius.props"
+    },
+    {
+      "Id": "obj/Release/net7.0/staticwebassets/msbuild.buildTransitive.NetGenius.props",
+      "PackagePath": "buildTransitive\\NetGenius.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

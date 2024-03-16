@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NetGenius
+build_property.RootNamespace = NetGenius
+build_property.ProjectDir = /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/nurbolatzursinbek/Projects/NetGenius/NetGenius
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Blog/Design.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9EZXNpZ24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Blog/Technology.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9UZWNobm9sb2d5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Blog/Webflow.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmxvZy9XZWJmbG93LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/ComingSoon/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29taW5nU29vbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Faq/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmFxL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVhdHVyZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/ForgotPassword/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9yZ290UGFzc3dvcmQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTG9naW4vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Price/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJpY2UvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVnaXN0ZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Successstory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3VjY2Vzc3N0b3J5L0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/_Mainmenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX01haW5tZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/_ValidationScriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZhbGlkYXRpb25TY3JpcHRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/СonfirmEmail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3Mv0KFvbmZpcm1FbWFpbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nurbolatzursinbek/Projects/NetGenius/NetGenius/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mtmoggpsew

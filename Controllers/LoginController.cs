@@ -13,7 +13,7 @@ namespace NetGenius.Controllers
         {
             return View();
         }
-
+        //Подобие логина которая не работает пока что
         [HttpPost]
         public IActionResult Login(string username, string password)
         {
